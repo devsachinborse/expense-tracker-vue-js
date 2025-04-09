@@ -1,10 +1,4 @@
-# .
-
-This template should help get you started developing with Vue 3 in Vite.
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
+This is Bais Expense Tracker build with Vue 3 in Vite.
 
 ## Project Setup
 
@@ -23,3 +17,4 @@ npm run dev
 ```sh
 npm run build
 ```
+![screenshot](https://github.com/user-attachments/assets/a1d56c73-406a-45e4-8c6d-958487a4ded5)
